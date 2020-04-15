@@ -16,5 +16,5 @@ As of 02 April 2020,
 The virus can spread from person to person, but good hygiene can prevent infection.
 
 Data source: 
-        Johns Hopkins Coronavirus Resource Center
+        Johns Hopkins Coronavirus Resource Center and 
         World Health Organisation
