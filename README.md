@@ -10,6 +10,7 @@ Data source:
         World Health Organisation
         
 Key findings from Tableau visualization:
+
 As of 02 April 2020,
 
           Total Coronavirus Cases (World): 1,013,005
